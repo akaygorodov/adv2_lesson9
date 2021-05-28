@@ -5,7 +5,7 @@ public class UserValidator {
     UserRepository userRepository;
 
     public static void main(String[] args) {
-
+        //swre
     }
 
     public boolean validateLogin(String login) {
